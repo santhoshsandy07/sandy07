@@ -109,8 +109,7 @@ public class Actions {
 		WebElement Banghotel=driver.findElement(By.xpath("//div[@class=\"left_city\"]"));
 		
 		
-			
-	
+
 		
 		
 		
